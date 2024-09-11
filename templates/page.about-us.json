@@ -8,9 +8,14 @@
 * ------------------------------------------------------------
 */
 {
-  "current": "Default",
-  "presets": {
-    "Default": {
+  "sections": {
+    "banner": {
+      "type": "homepage",
+      "settings": {
+      }
     }
-  }
+  },
+  "order": [
+    "banner"
+  ]
 }
